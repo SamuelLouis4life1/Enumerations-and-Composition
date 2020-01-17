@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum1", "Enum1\Enum1.csproj", "{E507FB98-5B7D-42D9-ACAF-C22A39F7F108}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostAndComment", "PostAndComment\PostAndComment.csproj", "{40EEC1E2-AD45-4AD0-8675-BE616781A609}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E507FB98-5B7D-42D9-ACAF-C22A39F7F108}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E507FB98-5B7D-42D9-ACAF-C22A39F7F108}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E507FB98-5B7D-42D9-ACAF-C22A39F7F108}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40EEC1E2-AD45-4AD0-8675-BE616781A609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40EEC1E2-AD45-4AD0-8675-BE616781A609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40EEC1E2-AD45-4AD0-8675-BE616781A609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40EEC1E2-AD45-4AD0-8675-BE616781A609}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
