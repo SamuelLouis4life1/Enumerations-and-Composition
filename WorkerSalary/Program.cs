@@ -3,6 +3,11 @@ using WorkerSalary.Entities;
 using WorkerSalary.Entities.Enums;
 using System.Globalization;
 
+/// <summary>
+/// a program that reads the data of a worker with N contracts (N provided by the user). 
+/// Then, ask the user for a month and show the employee's salary in that month
+/// </summary>
+
 namespace WorkerSalary
 {
     class Program
